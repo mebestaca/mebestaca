@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edison</h1>
-<h3 align="center">Aspiring Data Scientist.</h3>
+<h1 align="left">Hi 👋, I'm Edison</h1>
+<h3 align="leftr">Aspiring Data Scientist.</h3>
 
 - 🔭 I’m currently working on **Deep Learning Specialization** 
 
