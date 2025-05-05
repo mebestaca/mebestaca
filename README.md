@@ -1,9 +1,4 @@
 <h1 align="left">Hi 👋, I'm Edison</h1>
-<h3 align="leftr">Aspiring Data Scientist.</h3>
-
-- 🔭 I’m currently working on **Deep Learning Specialization** 
-
-- 📫 How to reach me **mebestaca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
